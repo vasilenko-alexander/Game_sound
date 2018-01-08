@@ -1,0 +1,4 @@
+background_music sounds/UpbeatFunk.wav 0
+tank_engine sounds/tank_engine.wav 1
+tank_explotion sounds/tank_explosion.wav 1
+tank_shoot sounds/tank_shoot.wav 1
